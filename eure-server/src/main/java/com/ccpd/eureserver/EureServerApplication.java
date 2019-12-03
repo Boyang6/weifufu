@@ -10,6 +10,8 @@ public class EureServerApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(EureServerApplication.class, args);
+        System.out.println("hhh");
+        System.out.println("2333");
     }
 
 }
